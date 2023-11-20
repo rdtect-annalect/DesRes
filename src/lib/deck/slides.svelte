@@ -17,9 +17,9 @@
 			plugins: [Markdown, Highlight, Notes],
 			autoAnimateEasing: 'ease',
 			autoAnimateDuration: 1,
-			hash: true
-			// controls: false,
-			// progress: false
+			hash: true,
+			controls: false,
+			progress: false
 		})
 
 		deck.initialize()

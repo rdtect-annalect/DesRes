@@ -1,5 +1,8 @@
 <script>
-	export let id = null
+	/**
+     * @type {null} | 0
+     */
+	 export let id = null
 	export let animate = false
 	export let restart = false
 </script>

@@ -2,11 +2,14 @@
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
         "source.fixAll": "always",
-        "source.organizeImports": true
+        "source.organizeImports": "explicit"
     },
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "svelte.svelte-vscode",
     "editor.formatOnPaste": true,
     "editor.formatOnType": true,
     "files.autoSave": "afterDelay",
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    }
 }

@@ -1,6 +1,6 @@
 <script>
 	/**
-     * @type {null} | 0
+     * @type {null} || 0
      */
 	 export let id = null
 	export let animate = false

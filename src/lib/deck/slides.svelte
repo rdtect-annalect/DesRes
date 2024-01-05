@@ -17,7 +17,7 @@
 			plugins: [Markdown, Highlight, Notes],
 			autoAnimateEasing: 'ease',
 			autoAnimateDuration: 1,
-			hash: true,
+			hash: true,  
 			controls: false,
 			progress: false
 		})
